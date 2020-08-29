@@ -38,3 +38,5 @@ builtin_brushes = plugins.filter_by_category(['builtin', 'brush'])
 plugins.get_by_name('roundbrush').disable()
 plugins.get_by_name('roundbrush', include_disabled=True).enable()
 ```
+
+See more detailed information in the Docs (Not completed yet)
