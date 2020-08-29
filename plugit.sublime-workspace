@@ -1,0 +1,1287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"print〔function〕"
+			],
+			[
+				"buil",
+				"builtin_brushes〔variable〕"
+			],
+			[
+				"comm",
+				"community.brush"
+			],
+			[
+				"commu",
+				"community_brushes〔variable〕"
+			],
+			[
+				"user_",
+				"user_plugins〔variable〕"
+			],
+			[
+				"vali",
+				"validators"
+			],
+			[
+				"v",
+				"validators"
+			],
+			[
+				"plug",
+				"plugit〔module〕"
+			],
+			[
+				"pale",
+				"palettes"
+			],
+			[
+				"Us",
+				"UsrRanges.mdb"
+			],
+			[
+				"Recor",
+				"RecordedSession〔class〕"
+			],
+			[
+				"192",
+				"192.168.0.25"
+			],
+			[
+				"desc",
+				"description〔variable〕"
+			],
+			[
+				"str",
+				"stripped〔variable〕"
+			],
+			[
+				"Plug",
+				"PluginManager〔class〕"
+			],
+			[
+				"choke",
+				"chokespot"
+			],
+			[
+				"water",
+				"waterbase_ub"
+			],
+			[
+				"ubco",
+				"ub_config"
+			],
+			[
+				"gray",
+				"graylayer"
+			],
+			[
+				"han",
+				"handlers〔variable〕"
+			],
+			[
+				"waterbasei",
+				"waterbase_inks〔variable〕"
+			],
+			[
+				"wa",
+				"waterbase_inks〔variable〕"
+			],
+			[
+				"st",
+				"startime〔variable〕"
+			],
+			[
+				"end",
+				"endtime〔variable〕"
+			],
+			[
+				"sc",
+				"scptfiles〔variable〕"
+			],
+			[
+				"threa",
+				"threading〔module〕"
+			],
+			[
+				"fron",
+				"frontsfolder"
+			],
+			[
+				"all",
+				"allGarments〔argument〕"
+			],
+			[
+				"print",
+				"print_garment〔variable〕"
+			],
+			[
+				"log",
+				"logging_lib"
+			],
+			[
+				"expecte",
+				"expectedIn"
+			],
+			[
+				"expe",
+				"expectedIn"
+			],
+			[
+				"flow_",
+				"flow_logger"
+			],
+			[
+				"l",
+				"loggingLib"
+			],
+			[
+				"Delee",
+				"DeleteFile"
+			],
+			[
+				"ass",
+				"asset_tunnel"
+			],
+			[
+				"lib",
+				"libFolder"
+			],
+			[
+				"swatchnam",
+				"swatch_name"
+			],
+			[
+				"refere",
+				"reference_tools_and_forms"
+			],
+			[
+				"elasti",
+				"elasticsearch"
+			],
+			[
+				"img",
+				"imgref\tmarkdown reference image tag"
+			],
+			[
+				"one",
+				"one_index〔argument〕"
+			],
+			[
+				"on",
+				"one_index〔argument〕"
+			],
+			[
+				"insta",
+				"installation"
+			],
+			[
+				"Fast",
+				"FastScripts"
+			],
+			[
+				"inform",
+				"informing"
+			],
+			[
+				"addr",
+				"address"
+			],
+			[
+				"dat",
+				"datetime〔class〕"
+			],
+			[
+				"wri",
+				"writerows〔function〕"
+			],
+			[
+				"filt",
+				"filtered〔variable〕"
+			],
+			[
+				"in",
+				"installer"
+			],
+			[
+				"update",
+				"update_from"
+			],
+			[
+				"env",
+				"environ〔module〕"
+			],
+			[
+				"sh",
+				"shutil〔module〕"
+			],
+			[
+				"inst",
+				"install_path〔variable〕"
+			],
+			[
+				"Lo",
+				"LooseVersion〔module〕"
+			],
+			[
+				"dry",
+				"dry_run〔argument〕"
+			],
+			[
+				"A",
+				"ArgumentParser〔class〕"
+			],
+			[
+				"config",
+				"configfile"
+			],
+			[
+				"c",
+				"config〔module〕"
+			],
+			[
+				"spr",
+				"SPrAWL〔module〕"
+			],
+			[
+				"pp",
+				"pprint\timport pretty print"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"user",
+				"userconfig〔argument〕"
+			],
+			[
+				"app",
+				"appsupport_path〔variable〕"
+			],
+			[
+				"C",
+				"ConfigReader〔class〕"
+			],
+			[
+				"read",
+				"read_configuration_file"
+			],
+			[
+				"version",
+				"version_help〔variable〕"
+			],
+			[
+				"migr",
+				"migrations〔variable〕"
+			],
+			[
+				"upda",
+				"update_from"
+			],
+			[
+				"im",
+				"import_pattern"
+			],
+			[
+				"imp",
+				"import_statement〔variable〕"
+			],
+			[
+				"modu",
+				"module_pattern〔variable〕"
+			],
+			[
+				"Qu",
+				"QUOTE_NONE〔variable〕"
+			],
+			[
+				"sp",
+				"splitlines〔function〕"
+			],
+			[
+				"mig",
+				"migrations"
+			],
+			[
+				"mi",
+				"migrations"
+			],
+			[
+				"impo",
+				"importlib〔module〕"
+			],
+			[
+				"ver",
+				"VERSION"
+			],
+			[
+				"short",
+				"shortcut_path〔argument〕"
+			],
+			[
+				"Not",
+				"NotImplementedError〔class〕"
+			],
+			[
+				"updat",
+				"update_preference"
+			],
+			[
+				"__",
+				"__init__\tinit"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"e",
+				"expanduser〔function〕"
+			],
+			[
+				"dic",
+				"dict_path"
+			],
+			[
+				"prefe",
+				"preferences〔argument〕"
+			],
+			[
+				"fil",
+				"filepath"
+			],
+			[
+				"de",
+				"defs\tMethod"
+			],
+			[
+				"it",
+				"iter_modules〔function〕"
+			],
+			[
+				"migration",
+				"migration_0001"
+			],
+			[
+				"column",
+				"column_map〔argument〕"
+			],
+			[
+				"sub",
+				"subprocess〔module〕"
+			],
+			[
+				"laa",
+				"label_data〔variable〕"
+			],
+			[
+				"match",
+				"match_list"
+			],
+			[
+				"tok",
+				"token_name〔argument〕"
+			],
+			[
+				"team",
+				"team_update_form"
+			],
+			[
+				"tablema",
+				"table_metadata〔variable〕"
+			],
+			[
+				"Empty",
+				"EmptyUpdateError"
+			],
+			[
+				"Emp",
+				"EmptyUpdateError"
+			],
+			[
+				"ta",
+				"table_map〔argument〕"
+			],
+			[
+				"ppri",
+				"pprint"
+			],
+			[
+				"S",
+				"SLDColorMock"
+			],
+			[
+				"Garm",
+				"GarmentColorMock〔class〕"
+			],
+			[
+				"ref",
+				"imgref\tmarkdown reference image tag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"Sp",
+				"SPrAWL"
+			],
+			[
+				"se",
+				"serialize"
+			],
+			[
+				"Re",
+				"RecordError"
+			],
+			[
+				"deb",
+				"DEBUG  (variable)"
+			],
+			[
+				"ex",
+				"extractall  (function)"
+			],
+			[
+				"style",
+				"MyStyle4"
+			],
+			[
+				"g",
+				"graphicCodes"
+			],
+			[
+				"fi",
+				"finished_garment_codes"
+			],
+			[
+				"garment",
+				"garmentcodes"
+			],
+			[
+				"_par",
+				"_parsedname  (variable)"
+			],
+			[
+				"file",
+				"FilenameError"
+			],
+			[
+				"plac",
+				"placement_code"
+			],
+			[
+				"art_",
+				"art_centered"
+			],
+			[
+				"ar",
+				"art_location  (function)"
+			],
+			[
+				"sep",
+				"SeparationFile"
+			],
+			[
+				"p",
+				"property\tNew Property"
+			],
+			[
+				"f",
+				"filetype  (variable)"
+			],
+			[
+				"parse",
+				"_parse"
+			],
+			[
+				"inp",
+				"_input_to_dict"
+			],
+			[
+				"dp",
+				"dp_type"
+			],
+			[
+				"I",
+				"IDataMiner"
+			],
+			[
+				"Red",
+				"Red_A1MH_186"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "tab",
+		"selected_items":
+		[
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"debug",
+				"SublimeLinter: Disable Debug Mode"
+			],
+			[
+				"impor",
+				"Python Import Magic: Update Imports"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"autod",
+				"AutoDocstring: Current"
+			],
+			[
+				"app",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"docbl",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"white",
+				"Expand Selection to Whitespace"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"scop",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"head",
+				"Build With: Applescript - headers"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"x",
+				"Indent XML"
+			],
+			[
+				"indent xm",
+				"Indent XML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"indent",
+				"Auto indent"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"search",
+				"File: Search Files"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"searc",
+				"File: Search Files"
+			],
+			[
+				"pyt",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"colorc",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colorcod",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"color",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"ppr",
+				"Pretty Print: Format (Pretty Print) Python code"
+			],
+			[
+				"pprint",
+				"Pretty Print: Format (Pretty Print) Python code"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"scope",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"to",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"pythonim",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"SCOP",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"logst",
+				"Set Syntax: Logstash"
+			],
+			[
+				"config",
+				"Set Syntax: Buildout Config"
+			],
+			[
+				"logsta",
+				"Set Syntax: Logstash"
+			],
+			[
+				"conf",
+				"Set Syntax: Buildout Config"
+			],
+			[
+				"pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"shel",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pastry rang",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"apple",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"py",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"imp",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"djan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"dja",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"impro",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"plai",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"m",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"log",
+				"Set Syntax: LaTeX Log"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"txt",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"toggle l",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"togl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"mdg",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"mon",
+				"Set Syntax: MonoText"
+			],
+			[
+				"mono",
+				"Set Syntax: MonoText"
+			],
+			[
+				"pyi",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"syn",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"shs",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"scu",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"c spac",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"todo",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"TODO",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"s pro",
+				"Snippet: New Property"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"ssap",
+				"Set Syntax: AppleScript"
+			],
+			[
+				"sypy",
+				"Set Syntax: Python"
+			],
+			[
+				"sht",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"sh",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"aaa co",
+				"z:AAAPackageDev: JSON to Property List"
+			],
+			[
+				"packag in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: cl",
+				"Snippet: New Class"
+			],
+			[
+				"sspyc",
+				"Set Syntax: Python (custom)"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"sch",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"Snippet: cla",
+				"Snippet: New Class"
+			]
+		],
+		"width": 544.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"sublime.active_window().new_file().run_command( \"append\", { \"characters\": str( sublime.find_resources( \"*.sublime-snippet\" ) ).replace( \", \", \"\\n\" ), } );",
+			"wordCount",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit"
+	],
+	"file_history":
+	[
+		"/Users/herwedar/Files/Templates/python.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/plugit/cli.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/plugit/manager.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/plugit/base.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/plugit/__init__.py",
+		"/Users/herwedar/Dropbox (adidas)/settings/_ide_settings/sublime_text/User/Default (OSX).sublime-keymap",
+		"/Users/herwedar/Files/Templates/applescript.applescript",
+		"/Users/herwedar/Downloads/sprinkles-0.4.6/README.txt",
+		"/Users/herwedar/Downloads/sprinkles-0.4.6/sprinkles.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/plugit/plugins/plugin1.py",
+		"/Users/herwedar/Files/Projects/_sandbox/Plugit/test/test_plugit.py",
+		"/Users/herwedar/Dropbox (adidas)/settings/bash_profile",
+		"/Users/herwedar/Downloads/bash_profile",
+		"/Users/herwedar/Downloads/bash_profile (Darrick Herwehe's conflicted copy 2018-02-20)",
+		"/Users/herwedar/Dropbox (adidas)/settings/virtualenvwrapper/hooks/postmkvirtualenv",
+		"/Users/herwedar/Dropbox (adidas)/settings/virtualenvwrapper/templates/virtualenvwrapper/python3/virtualenvwrapper/py3.py",
+		"/Users/herwedar/Files/Projects/_sandbox/TestTemplate/test/test_testtemplate.py",
+		"/Users/herwedar/Files/Projects/_sandbox/TestTemplate/testtemplate/testtemplate.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/libraries/external/simplegui/simplegui.py",
+		"/Users/herwedar/Files/Projects/_personal/open_source/simplegui/simplegui/simplegui.py",
+		"/Users/herwedar/.virtualenvs/postactivate",
+		"/Users/herwedar/Dropbox (adidas)/settings/cookiecutter/config.yaml",
+		"/Users/herwedar/.bash_profile",
+		"/Users/herwedar/Dropbox (adidas)/settings/cookiecutter/templates/cookiecutter-python3/{{cookiecutter.pkg_name}}/{{cookiecutter.pkg_name}}/__init__.py",
+		"/Users/herwedar/Dropbox (adidas)/settings/cookiecutter/templates/cookiecutter-python3/{{cookiecutter.pkg_name}}/docs/overview.md",
+		"/Users/herwedar/Dropbox (adidas)/settings/cookiecutter/templates/cookiecutter-python3/{{cookiecutter.pkg_name}}/{{cookiecutter.pkg_name}}/{{cookiecutter.pkg_name}}.py",
+		"/Users/herwedar/Files/Projects/_sandbox/cookiecutter-test/proj_folder/paintgen/setup.py",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx python unittest-methods.txt",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/scripts/waterbase.applescript",
+		"/Users/herwedar/Files/Projects/_sandbox/paintgen/reference/README",
+		"/Users/herwedar/Files/Projects/_sandbox/paintgen/reference/art_generator.py",
+		"/Users/herwedar/Files/Projects/_sandbox/paintgen/.git/index",
+		"/Users/herwedar/Files/Projects/_sandbox/generative-art/generative-art.sublime-project",
+		"/Users/herwedar/Dropbox (adidas)/bin/bin/scriptsearch",
+		"/Users/herwedar/Dropbox (adidas)/bin/bin/scptheaders",
+		"/Users/herwedar/Library/Application Support/nvALT/GitHub.css",
+		"/Users/herwedar/Files/backup/licenses/script-debugger.4.5.txt",
+		"/Users/herwedar/Files/backup/licenses/script-debugger.5.0.txt",
+		"/Users/herwedar/Files/backup/licenses/script-debugger.4.0.txt",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx deepfakes layout.txt",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx mybest 2018-q1.txt",
+		"/Users/herwedar/Dropbox (adidas)/bin/binwork/elk-kibana",
+		"/Users/herwedar/Files/Projects/Sprawl/sprawl.sublime-project",
+		"/Users/herwedar/Dropbox (adidas)/settings/_ide_settings/sublime_text/User/plugins/asheaders",
+		"/Users/herwedar/Dropbox (adidas)/settings/_ide_settings/sublime_text/User/AppleScript.sublime-settings",
+		"/Applications/Adobe Illustrator CC 2017/Adobe Illustrator.app/Contents/Info.plist",
+		"/Users/herwedar/Desktop/headerdoc_filter.py",
+		"/Users/herwedar/.virtualenvs/reddit-cl-bot/lib/python3.6/site-packages/devpath.pth",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx sprawl update-embroidery-threads.txt",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx sprawl environment.txt",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/range_test/ethos_db3.csv",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/range_test/ethos_db2.csv",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/range_test/ethos_db1.csv",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/ethos_db6.csv",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/ethos_db1.csv",
+		"/Users/herwedar/Documents/Virtual Machines.localized/Shared Folder/ThreadCsv/tblThreadtemplate.csv",
+		"/Users/herwedar/Desktop/sprawl-updates.log",
+		"/Users/herwedar/Dropbox (adidas)/public/untracked-code/satoshi-mines-bot/satoshi-mines-bot.py",
+		"/Users/herwedar/Desktop/satoshi-mines-bot.log",
+		"/Users/herwedar/Library/Containers/com.lastpass.LastPass/Data/Library/Application Support/LastPass/tmp/ether_keystore.txt",
+		"/Users/herwedar/Dropbox (adidas)/public/csc_usd_history.txt",
+		"/Users/herwedar/Desktop/fp76arc_zbk.htm",
+		"/Users/herwedar/Dropbox (adidas)/asoiaf/epubs/base-files/a-feast-for-crows/md/ascii/clean/final/a-feast-for-crows-27-samwell.md",
+		"/Users/herwedar/Dropbox (adidas)/public/untracked-code/getframe",
+		"/Users/herwedar/Dropbox (adidas)/public/untracked-code/thumb",
+		"/Volumes/US/darrick_herwehe/sprawl-updates.log",
+		"/Users/herwedar/Dropbox (adidas)/public/home-computer-documentation/markdoc/markdoc.yaml",
+		"/Users/herwedar/Dropbox (adidas)/public/home-computer-documentation/markdoc/build",
+		"/Users/herwedar/Dropbox (adidas)/public/home-computer-documentation/markdoc/wiki/network.md",
+		"/Users/herwedar/Desktop/static/markdoc/wiki/cameras.md",
+		"/Users/herwedar/Desktop/static/markdoc/wiki/computer-list.md",
+		"/Users/herwedar/Desktop/static/markdoc/wiki/devices.md",
+		"/Users/herwedar/Desktop/static/markdoc/markdoc.yaml",
+		"/Users/herwedar/Desktop/static/markdoc/wiki/index.md",
+		"/Users/herwedar/Desktop/static/index.md",
+		"/Users/herwedar/Desktop/static/mkdocs.yml",
+		"/sprawl.installer.migration",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/libraries/color/standardize.py",
+		"/private/tmp/ffmpeg.txt",
+		"/Users/herwedar/Dropbox (adidas)/txts/refx home maintenance-monthly.txt",
+		"/Users/herwedar/Dropbox (adidas)/asoiaf/epubs/base-files/a-clash-of-kings/md/ascii/clean/final/a-clash-of-kings-59-davos.md",
+		"/Users/herwedar/Dropbox (adidas)/asoiaf/Megans map/map.txt",
+		"/Users/herwedar/Dropbox (adidas)/settings/usefulidiot/install_and_settings.txt",
+		"/Users/herwedar/Desktop/cleanbridge",
+		"/Users/herwedar/Dropbox (adidas Group)/asoiaf/epubs/base-files/a-dance-with-dragons/md/ascii/clean/final/a-dance-with-dragons-07-the-merchants-man.md",
+		"/Users/herwedar/Dropbox (adidas Group)/settings/illustrator/README",
+		"/Users/herwedar/Dropbox (adidas Group)/settings/illustrator/customized-shortcuts.kys",
+		"/Users/herwedar/Library/Preferences/Adobe Illustrator 21 Settings/en_GB/customized-shortcuts.kys",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/bin/resequence.py",
+		"/Users/herwedar/Files/Misc/a-song-of-ice-and-fire-epubs/base-files/a-feast-for-crows/a-feast-for-crows-08.html",
+		"/Users/herwedar/Files/Misc/a-song-of-ice-and-fire-epubs/base-files/a-storm-of-swords/a-storm-of-swords-50.html",
+		"/Users/herwedar/Files/Misc/a-song-of-ice-and-fire-epubs/base-files/a-dance-with-dragons/md/a-dance-with-dragons-01.html.md",
+		"/Users/herwedar/Files/Misc/a-song-of-ice-and-fire-epubs/base-files/a-storm-of-swords/md/a-storm-of-swords-01.html.md",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/bin/latestversion",
+		"/Users/herwedar/Desktop/a.txt",
+		"/Users/herwedar/Dropbox (adidas Group)/settings/_ide_settings/sublime_text/User/snippets/Python docstring.sublime-snippet",
+		"/Users/herwedar/Dropbox (adidas Group)/settings/_ide_settings/sublime_text/User/snippets/applescript-database-events.sublime-snippet",
+		"/Users/herwedar/Dropbox (adidas Group)/public/applescript-libraries/docs/list_applescript/index.html",
+		"/Users/herwedar/Dropbox (adidas Group)/txts/refx asoiaf questions-and-notes.txt",
+		"/Users/herwedar/Dropbox (adidas Group)/txts/scratch.txt",
+		"/System/Library/Components/AppleScript.component/Contents/Resources/English.lproj/Localizable.strings",
+		"/System/Library/Components/AppleScript.component/Contents/MacOS/AppleScript",
+		"/Users/herwedar/Downloads/applescript.py",
+		"/Users/herwedar/Library/Application Support/Script Debugger 5/Scripts/add_headers_.applescript",
+		"/Users/herwedar/Library/Application Support/Script Debugger 5/Scripts/add_headers.applescript",
+		"/Users/herwedar/Library/Application Support/Script Debugger 5/Clippings/*property_declaration.txt",
+		"/Users/herwedar/Desktop/customized-shortcuts.txt",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/libraries/print_data.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/integration_tests/suite.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/integration_tests/test_resequence.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/bin/__init__.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/integration_tests/test_update_ink_database.py",
+		"/Users/herwedar/Dropbox (adidas Group)/bin/work/changelog",
+		"/Users/herwedar/Files/Projects/Sprawl/todoist_task_template.txt",
+		"/Users/herwedar/Files/Projects/Sprawl/history/changelogs/sprawl_updates_4.2.3.md",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/unit_tests/python/suite.py",
+		"/Users/herwedar/Dropbox (adidas Group)/bin/scriptsearch",
+		"/Users/herwedar/Files/backup/licenses/script-debugger.txt",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/libraries/underbase_values.py",
+		"/Users/herwedar/Dropbox (adidas Group)/bin/work/cleanaxo",
+		"/Users/herwedar/Downloads/update SPrAWL documentation.csv",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/config/config.json",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/unit_tests/python/test_sequence.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/integration_tests/test_standardize_colors.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/unit_tests/python/test_updateInkDatabase.py",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/SprawlInstall-dev.app/Contents/Resources/SPrAWL/unit_tests/python/test_sldcolor.py",
+		"/Users/herwedar/Dropbox (adidas Group)/bin/work/meetingreader",
+		"/Users/herwedar/Files/Projects/Sprawl/SPrAWL/documentation/mkdocs.yml"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "plugit.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cli",
+				"plugit/cli.py"
+			],
+			[
+				"tes",
+				"test/test_plugit.py"
+			],
+			[
+				"sldc",
+				"libraries/color/sldcolor.py"
+			],
+			[
+				"unt",
+				"/Users/herwedar/Desktop/untitled.py"
+			],
+			[
+				"userke",
+				"/Users/herwedar/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 63.0,
+		"last_filter": "method04",
+		"selected_items":
+		[
+			[
+				"method04",
+				"method04"
+			],
+			[
+				"mess",
+				"_add_message"
+			],
+			[
+				"add",
+				"add_buttons"
+			],
+			[
+				"jsdocsp",
+				"JsdocsParser"
+			],
+			[
+				"",
+				"JsdocsCoffee"
+			],
+			[
+				"jsdocs",
+				"JsdocsJavascript"
+			]
+		],
+		"width": 400.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

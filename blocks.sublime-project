@@ -1,0 +1,38 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "blocks",
+			"selector": "source.python",
+			"shell_cmd": "~/.virtualenvs/blocks/bin/python3 -B -u ${file}",
+			"variants":
+			[
+				{
+					"name": "Run",
+					"shell_cmd": "~/.virtualenvs/blocks/bin/pytest ${project_path}"
+				},
+				{
+					"name": "Run Integration Tests",
+					"shell_cmd": "~/.virtualenvs/blocks/bin/python3.6 -B -m pytest -m integration ${project_path}"
+				}
+			]
+		},
+		{
+			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+			"name": "Anaconda Python Builder",
+			"selector": "source.python",
+			"shell_cmd": "~/.virtualenvs/blocks/bin/python3 -B -u \"$file\""
+		}
+	],
+	"folders":
+	[
+		{
+			"folder_exclude_patterns":
+			[
+				"__pycache__"
+			],
+			"path": "."
+		}
+	]
+}
